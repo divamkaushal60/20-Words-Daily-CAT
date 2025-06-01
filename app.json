@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "surprised-green-candy",
+    "slug": "snack-d3a22f8d-46a1-4f48-aaf4-3920f3c54822",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.divamkaushal60.snackd3a22f8d46a14f48aaf43920f3c54822"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad0ea311-fa3e-41a5-8d13-61714ec45ef0"
+      }
+    }
+  }
+}
